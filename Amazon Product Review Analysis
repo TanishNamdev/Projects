@@ -1,0 +1,22 @@
+🛒 Amazon Product Review Analysis & Customer Segmentation
+
+Tech Stack: Python | SQL | Machine Learning | NLP | Time Series Analysis
+
+Overview:
+Analyzed Amazon product reviews and customer spending patterns to optimize inventory management and improve business strategy.
+
+Key Highlights:
+
+- Customer Segmentation: Grouped customers based on spending habits to identify the least active/high-risk segments for churn reduction and inventory optimization.
+- Sentiment Analysis: Performed NLP-based analysis on product reviews to gauge customer satisfaction and product perception.
+- Demand Forecasting: Applied time series analysis to predict future demand trends and support proactive inventory planning.
+- Data Pipeline: Extracted, cleaned, and analyzed large datasets using Python and SQL for actionable insights.
+- Machine Learning: Implemented clustering and predictive models to understand customer behavior and forecast future sales.
+
+Impact:
+
+- Improved inventory allocation efficiency by focusing on high-demand products.
+- Identified at-risk customers for targeted retention strategies.
+- Gained actionable insights from customer sentiment to guide product and marketing decisions.
+
+🔗 Repository: [GitHub Link]
